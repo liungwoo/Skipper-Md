@@ -10,8 +10,8 @@
     "PREFIX":
     {
       "description":"choose your prefix of bot",
-      "value"+".","
-      "required":true
+      "value"
+      "required":false
     },
     "AUTO_READ_STATUS":
     {
