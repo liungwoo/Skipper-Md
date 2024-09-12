@@ -10,7 +10,7 @@
     "PREFIX":
     {
       "description":"choose your prefix of bot",
-      "value":".",
+      "value"."
       "required":true
     },
     "AUTO_READ_STATUS":
@@ -65,7 +65,7 @@
     "SESSION_ID":
     {
       "description":"put your session ID , make sure it starts with eyJub2I...",   
-      "value":"",
+      "value":"eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiV0JzNDhoTkdIU3BBdDZQMGdaZ3J4VWNtUXlrYVQ0dkw1dW5MS3c0TmpWZz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMWJrajNnLzA1aWxIVmtoTDFXNEdTYXRPb0M4ZTRGb0pqcmF5cmoxY2hFST0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJnR0FnUTFEajZLSm9YQ1F6NG1Ua2lOWnAzSHpRUWVjWGpjTTBFVnlneVd3PSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJzUkJjTDN1ZFl4M1UzSmtWT3plcDh1OGFMU09rbnBjdlVjMWJLMmxKWlRJPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IndBVnJZNmtONFVuSjU4NThCSnhEOE9qTVMzbzE3b1RLRGlyNkRuM3RlR1E9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjYyS1lRTnFSc0l6Mm9hU1NCUHVUZlkwblNTelNiY1J2bjZ0RnMvbjNUa0k9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZU45czZRd1UzejNvL2dVU0VoZzRBd3VyMDFSNGtxemM2QkxzTjRMQWExcz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoic3dodGNPR1BsOWFmUUlRMFZFUkpJZ3ZlSjdHa1dmaEcvY1J4TGszYWVDMD0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Im1sREd1Zktyemh6MW4wREpXUnVVeDlDb21IQWh1eVBzdTVzcE5ldHgrMk9xMERNWnFoRTZGMUhIejljNmYyRFFhWENrZUZNK0FXcFBDME1FQmxMR0RBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6ODEsImFkdlNlY3JldEtleSI6IjNEWGZsMmRwdGhOM1Q2SzR0S0JaWGYrU2FET09WRm1GN1Fhazc4b3g1aEE9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbeyJrZXkiOnsicmVtb3RlSmlkIjoiMjU0NzE3NzIwODEzQHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6IjU5OUUwMTYyQzk4MDVCODI5NjBGNDU1RjVGOEE4RDlBIn0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3MjYxMzY3NTh9LHsia2V5Ijp7InJlbW90ZUppZCI6IjI1NDcxNzcyMDgxM0BzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiI4RTJCMzFCRjY3QjU0MzI4NTcyQTg4RTI5QjRBNTRFQiJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzI2MTM2NzU5fV0sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjoxLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJKWEh4Rjg3cFFrYVVKU09QLWNfTzRRIiwicGhvbmVJZCI6IjAxZmJhNGEzLTFhOGUtNDYwOC1iMjZhLWEzOTNmZDRhNzRiMiIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJVQXlOdEU1bXhYSk5RaHNod0VKMldScEpmaUE9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWmV1TUdCdjRxMFdLS3RlL2FRYWNCdUJoR1dzPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IktSUkVHRTVYIiwibWUiOnsiaWQiOiIyNTQ3MTc3MjA4MTM6NEBzLndoYXRzYXBwLm5ldCIsIm5hbWUiOiJCYWhhdGkifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ0lQODRPOEVFS2VEaTdjR0dBRWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6InZKS3FwNmwxVG1DM25EWG1BbXk0UlpRRy8wWDh5UjlHRDdUckFnMW1ybjA9IiwiYWNjb3VudFNpZ25hdHVyZSI6IlZaMXk0Y3BHbGY3ZU9aUCsweldJbTlmMEVQZmY3LzVtcHVobkgxOFB3dEhFQk9vOEp1WXpiR05MditVaFByUmsxdElublpnNlc3VVJjREFOazVBZkFRPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJnWjZsRWcyRWZ5K1p3SXN4NmNTNnljQ1NkNmg0cW9xUUdidUltdmtvcVR6UitQYVdnS0tXUXdYWCtLK000RldvaldjTWJTcnh0a1VRa0VQMGpiVWhCdz09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjI1NDcxNzcyMDgxMzo0QHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQmJ5U3FxZXBkVTVndDV3MTVnSnN1RVdVQnY5Ri9Na2ZSZyswNndJTlpxNTkifX1dLCJwbGF0Zm9ybSI6InNtYmEiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MjYxMzY3NTYsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBUEI3In0= ",
       "required": true
       
     },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Tonny 408"
+    "value": "Bahati"
   },
     "OWNER_NUMBER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254798780465"
+    "value": "254717720813"
   },
     "WARN_COUNT":
   {
@@ -93,7 +93,7 @@
   {
     "description": "if you don't want startting-bot-message put no else put yes",
     "required": true,
-    "value": "no"
+    "value": "yes"
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
