@@ -9,11 +9,11 @@
   "env":{
     "PREFIX":
     {
-      "description":"choose your prefix of bot",
+      "description":".",
       "value":".",
       "required":true
     },
-    "AUTO_READ_STATUS":
+    "AUTO_READ_STATUS":yes
     {
       "description":"Your contact status will be read automatically(type yes to active or no to deactive  ; don't writre in capital letter)",
       "value":"yes",
@@ -32,7 +32,7 @@
       "required":false
     }
     ,
-    "BOT_NAME" : {
+    "BOT_NAME" : {bahati
        
       "description":"put A name for your bot",
       "value":"SKIPPER-MD",
@@ -48,38 +48,38 @@
      },
     "PUBLIC_MODE":
     {
-      "description":"type yes to put your bot on public mode or no to put it on private mod",
+      "description":"no",
       "value":"no",
       "required":false
     }
 	,
     "HEROKU_API_KEY": {
-    "description": "insert your heroku api-key (this is optionnal)",
+    "description": "(this is optionnal)",
      "required" :false
     },
-  "HEROKU_APP_NAME": {
+  "HEROKU_APP_NAME": {bahati
     "description": "insert your heroku APP NAME (this is optionnal)",
      "required" :false
     }  
 	  ,
     "SESSION_ID":
     {
-      "description":"put your session ID , make sure it starts with eyJub2I...",   
+      "description":" , make sure it starts with eyJub2I...",   
       "value":"",
       "required": true
       
     },
-    "OWNER_NAME":
+    "OWNER_NAME":bahati
     {
     
-    "desc": "Your Name",
+    "desc": "Y",
     "required": false,
     "value": "Tonny 408"
   },
-    "OWNER_NUMBER":
+    "OWNER_NUMBER":bahati
   {
     
-    "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
+    "desc": "0717720813 , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
     "value": "254798780465"
   },
